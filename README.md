@@ -1,2 +1,1 @@
-# interview
-collection some frequent question about java interview
+# JAVA高频面试题整理
