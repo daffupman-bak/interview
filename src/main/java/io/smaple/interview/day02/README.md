@@ -30,4 +30,4 @@ Thread类的sleep方法执行时不会释放CPU资源，而Object类的sleep方�
 
 2.4 线程的生命周期
 
-![](https://raw.githubusercontent.com/daffupman/markdown-img/master/20191205104402.png)
+![线程的生命周期](https://raw.githubusercontent.com/daffupman/markdown-img/master/20191205104402.png)
